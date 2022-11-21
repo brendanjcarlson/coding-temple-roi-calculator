@@ -1,0 +1,48 @@
+
+4 square method
+
+
+on property that costs 200,000
+
+-income
+-- rental 2,000/mo
+-- laundry nil
+-- storage nil
+-- misc nil
+--- TOTAL 2000/mo ---
+
+-expenses
+-- tax ~150/mo
+-- insurance ~100/mo
+-- utilities ~/mo tenant pays
+---- water
+---- electric
+---- sewer
+---- garbage
+-- home owners ass fees ~optional
+-- lawn/snow ~optional
+-- vacancy (savings for when unit is vacant) ~ 100/mo (5%/mo of rent)
+-- repairs ~100/mo/unit
+-- capital expenditures ~100/mo/unit
+-- property management  ~ 200/mo (~10% rent/mo)
+-- mortgage (or cash if you buy outright) (20% down) ~860/mo
+--- TOTAL 1610/mo
+
+- cash flow
+-- income minus expenses (2000-1610)
+---- TOTAL 390/mo
+
+-cash on cash return on investment
+-- down payment 40,000 (20% of cost)
+-- closing costs 3,000 (depends on area)
+-- repair budget 7,000 
+-- misc/other 0
+--- TOTAL INVESTMENT 50,000
+--- ROI 390x12months = 4680/yr
+--- cash flow/total investment*100 = 9.36% ROI
+
+----- cash on cash roi = 9.36%
+
+
+- total return (depends on current value of propery. are you accruing equity??)
+
